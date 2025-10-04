@@ -124,7 +124,6 @@ Sơ đồ Use Case mô tả các chức năng chính của hệ thống và mố
 
 Hệ thống Hotel Booking được thiết kế theo hướng hiện đại, đáp ứng đầy đủ các chức năng từ đặt phòng đến quản lý vận hành. Việc áp dụng UML và Agile Scrum giúp nhóm phát triển có quy trình rõ ràng, dễ mở rộng và bảo trì.
 
-<<-->>
 
 
 
