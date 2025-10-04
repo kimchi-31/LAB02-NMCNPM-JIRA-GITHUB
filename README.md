@@ -43,7 +43,7 @@ Phân tích yêu cầu và thiết kế hệ thống đặt phòng khách sạn 
 
 Sơ đồ Use Case mô tả các chức năng chính của hệ thống và mối quan hệ giữa các tác nhân. 
 
-![Use Case Diagram](arterfact/UseCase.png)
+![Use Case Diagram](arterfact/Use-Case-Diagram.png)
 
 ---
 
@@ -126,6 +126,7 @@ Repo này đã được liên kết với Jira project [SCRUM](https://nmcnpm-te
 ## ✅ Kết luận
 
 Hệ thống Hotel Booking được thiết kế theo hướng hiện đại, đáp ứng đầy đủ các chức năng từ đặt phòng đến quản lý vận hành. Việc áp dụng UML và Agile Scrum giúp nhóm phát triển có quy trình rõ ràng, dễ mở rộng và bảo trì.
+
 
 
 
